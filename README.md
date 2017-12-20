@@ -1,6 +1,5 @@
 [![Gem Version](https://badge.fury.io/rb/gs-nexus-registry-ruby.svg)](http://badge.fury.io/rb/gs-nexus-registry-ruby)
-[![Code Climate](https://codeclimate.com/github/SparkHub/gs-nexus-registry-ruby/badges/gpa.svg)](https://codeclimate.com/github/SparkHub/gs-nexus-registry-ruby)
-[![Issue Count](https://codeclimate.com/github/SparkHub/gs-nexus-registry-ruby/badges/issue_count.svg)](https://codeclimate.com/github/SparkHub/gs-nexus-registry-ruby)
+[![Maintainability](https://api.codeclimate.com/v1/badges/76545bad12dd3d14ec1d/maintainability)](https://codeclimate.com/repos/5a39a3440a289c027a00038e/maintainability)
 
 # GsNexusRegistry
 
