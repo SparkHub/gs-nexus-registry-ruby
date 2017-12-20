@@ -1,3 +1,7 @@
+[![Gem Version](https://badge.fury.io/rb/gs-nexus-registry-ruby.svg)](http://badge.fury.io/rb/gs-nexus-registry-ruby)
+[![Code Climate](https://codeclimate.com/github/SparkHub/gs-nexus-registry-ruby/badges/gpa.svg)](https://codeclimate.com/github/SparkHub/gs-nexus-registry-ruby)
+[![Issue Count](https://codeclimate.com/github/SparkHub/gs-nexus-registry-ruby/badges/issue_count.svg)](https://codeclimate.com/github/SparkHub/gs-nexus-registry-ruby)
+
 # GsNexusRegistry
 
 Allow the command `rake release` to push a gem in a Nexus Repository Manager instead of RubyGems.
