@@ -1,0 +1,10 @@
+---
+engines:
+  reek:
+    enabled: true
+  duplication:
+    enabled: true
+  fixme:
+    enabled: true
+  rubocop:
+    enabled: true
